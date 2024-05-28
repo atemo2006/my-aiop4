@@ -1,0 +1,20 @@
+var greeting = 'how are you';
+console.log(greeting)
+var greeting = "how are you";
+console.log(greeting);
+var greeting = "how are you";
+console.log(greeting);
+var greeting = "how are you";
+console.log(greeting);
+var greeting = "how are you";
+console.log(greeting);
+var greeting = "how are you";
+console.log(greeting);
+var greeting = "how are you";
+console.log(greeting);
+var greeting = "how are you";
+console.log(greeting);
+var greeting = "how are you";
+console.log(greeting);
+var greeting = "how are you";
+console.log(greeting);

@@ -41,6 +41,8 @@ switch (myName) {
     break;
 
   default:
-    console.log("who are you");
+    console.log("who are you?");
     break;
 }
+
+
